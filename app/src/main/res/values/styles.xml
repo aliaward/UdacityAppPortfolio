@@ -7,5 +7,13 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="projectButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">270dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">@dimen/margin_top_title</item>
+        <item name="android:background">#E64A19</item>
+        <item name="android:onClick">sendMessage</item>
+    </style>
 
 </resources>

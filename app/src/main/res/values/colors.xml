@@ -5,4 +5,6 @@
     <color name="colorAccent">#E64A19</color>
     <color name="background">#01579B</color>,
     <color name="buttons">#E64A19</color>
+    <color name="white">#FFFFFF</color>
+    <color name="capstone">#BF360C</color>
 </resources>
